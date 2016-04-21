@@ -1,6 +1,7 @@
 .page-header{
   text-align: center;
   margin-top: 15px;
+  font-size: 24px;
 }
 
 .navbar-nav {
@@ -8,7 +9,7 @@
 }
 
 .navbar-brand {
-  font-size: 36px;
+  font-size: 24px;
   font-weight: bold;
   margin-top: 15px;
   margin-bottom: 15px;
